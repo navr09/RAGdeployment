@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/RAGdeployment/mlruns/233137023424185183/models/m-b40c1576d5b345e7b480c5368c407e4e/artifacts
+creation_timestamp: 1760294405967
+experiment_id: '233137023424185183'
+last_updated_timestamp: 1760294415484
+model_id: m-b40c1576d5b345e7b480c5368c407e4e
+model_type: null
+name: RAGPipeline
+source_run_id: c06732427a834c2d818684e7851e80e9
+status: 2
+status_message: null

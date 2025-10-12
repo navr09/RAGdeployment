@@ -1,0 +1,19 @@
+artifact_path: file:///workspaces/RAGdeployment/mlruns/233137023424185183/models/m-be8c0d2682ff4102b1a685c2b682269a/artifacts
+flavors:
+  python_function:
+    cloudpickle_version: 3.1.1
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.12.1
+    streamable: false
+mlflow_version: 3.4.0
+model_id: m-be8c0d2682ff4102b1a685c2b682269a
+model_size_bytes: 158
+model_uuid: m-be8c0d2682ff4102b1a685c2b682269a
+prompts: null
+run_id: 5e7bf398414d4b8990cf41487a33e186
+utc_time_created: '2025-10-12 18:32:34.153972'

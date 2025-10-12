@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/RAGdeployment/mlruns/233137023424185183/c06732427a834c2d818684e7851e80e9/artifacts
+end_time: 1760294415539
+entry_point_name: ''
+experiment_id: '233137023424185183'
+lifecycle_stage: active
+run_id: c06732427a834c2d818684e7851e80e9
+run_name: useful-lark-612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760294405959
+status: 3
+tags: []
+user_id: codespace

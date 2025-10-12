@@ -1,0 +1,5 @@
+Our company provides flexible working hours to support work-life balance.
+Employees can access internal documentation through the Confluence portal.
+Annual leave requests must be submitted at least two weeks in advance.
+We use Jira for project tracking and ticket management.
+The IT department provides laptops and monitors for new employees.

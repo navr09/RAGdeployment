@@ -1,0 +1,8 @@
+transformers
+datasets
+sentence-transformers
+faiss-cpu
+mlflow
+fastapi
+uvicorn
+torch

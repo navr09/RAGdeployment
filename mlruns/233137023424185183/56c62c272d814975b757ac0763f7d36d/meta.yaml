@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/RAGdeployment/mlruns/233137023424185183/56c62c272d814975b757ac0763f7d36d/artifacts
+end_time: 1760294344008
+entry_point_name: ''
+experiment_id: '233137023424185183'
+lifecycle_stage: active
+run_id: 56c62c272d814975b757ac0763f7d36d
+run_name: bright-moth-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760294343948
+status: 4
+tags: []
+user_id: codespace

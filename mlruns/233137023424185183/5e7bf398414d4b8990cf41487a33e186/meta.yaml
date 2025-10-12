@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/RAGdeployment/mlruns/233137023424185183/5e7bf398414d4b8990cf41487a33e186/artifacts
+end_time: 1760293967015
+entry_point_name: ''
+experiment_id: '233137023424185183'
+lifecycle_stage: active
+run_id: 5e7bf398414d4b8990cf41487a33e186
+run_name: redolent-colt-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760293954142
+status: 3
+tags: []
+user_id: codespace
