@@ -53,6 +53,7 @@ jobs:
           key: ${{ secrets.EC2_SSH_KEY }}
           script: |
             cd ~/RAGAPI
+            df -h
             docker build -t ragapi:latest .
             docker stop ragapi || true
             docker rm ragapi || true
